@@ -4,6 +4,7 @@ php-mybb-registration-email-check
 TL;DR
 --------
 A simple plugin for <a href="http://www.mybboard.net/">MyBB</a> which hooks into the registration process and verifies that the provided email address is a real one.
+Originally written for MyBB 1.2.12 and never updated since then. Feel free to send pull requests!
 
 Details
 -------
